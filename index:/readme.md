@@ -1,1 +1,3 @@
 - https://www.coursera.org/specializations/complete-apache-kafka-course
+- https://www.coursera.org/learn/apache-kafka-architecture-and-internals
+- 
